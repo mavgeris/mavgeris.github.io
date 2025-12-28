@@ -6,7 +6,10 @@ author_profile: true
 
 ## Welcome
 
-I am **Margaritis Avgeris**, **Associate Professor** at the **School of Medicine, National and Kapodistrian University of Athens (NKUA)**.
+I am Margaritis Avgeris, Associate Professor<br>
+School of Medicine<br>
+National and Kapodistrian University of Athens (NKUA)<br>
+Athens, Greece
 
 **Current Position**<br>
 Associate Professor, School of Medicine, National and Kapodistrian University of Athens, Greece<br>
