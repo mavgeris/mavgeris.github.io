@@ -16,12 +16,14 @@ Athens, Greece
 2nd Dept. of Pediatrics, “P. & A. Kyriakou” Children’s Hospital, School of Medicine, NKUA<br>
 - Department of Biochemistry and Molecular Biology<br>
 Faculty of Biology, NKUA (_Affiliated Member_)
-
+<br>
+<br>
 **Short Bio**<br>
 - Dr. Avgeris studied Biology and received his MSc from the Faculty of Biology of the National and Kapodistrian University of Athens (NKUA). Dr. Avgeris holds a PhD degree in Clinical Biochemistry and Molecular Diagnostics from the Dept. of Biochemistry and Molecular Biology of the Faculty of Biology of NKUA. Following his PhD, he worked as PostDoc research fellow in the Dept. of Biochemistry and Molecular Biology as well as Academic Scholar of the Faculty of Biology of NKUA.<br>
 - He has participated in >12 research grants from Greek (Research – Create – Innovate, ELIDEK, Region of Attica, Synergasia, Aristeia, Thalis etc.) and EU (HORIZON-Cancer) funded programs in the NKUA and the Biomedical Research Foundation of the Academy of Athens (BRFAA). Among others, his works have been awarded by the National Academy of Clinical Biochemistry of USA (NACB) and the Federation of European Biochemical Societies (FEBS).<br>
 - In 2019, Dr. Avgeris was elected Associate Professor at the School of Medicine of the National and Kapodistrian University of Athens. 
-
+<br>
+<br>
 The **research interests** include: 
 - Cancer Research – RNA biology<br>
 - Molecular Diagnostics – Molecular cancer biomarkers<br>
