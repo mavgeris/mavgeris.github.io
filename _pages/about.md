@@ -12,8 +12,10 @@ Athens, Greece
 
 **Current Position**<br>
 **Associate Professor**, School of Medicine, National and Kapodistrian University of Athens, Greece<br>
-- Laboratory of Clinical Biochemistry – Molecular Diagnostics, 2nd Dept. of Pediatrics, “P. & A. Kyriakou” Children’s Hospital, School of Medicine, NKUA<br>
-- Department of Biochemistry and Molecular Biology, Faculty of Biology, NKUA (_Affiliated Member_)
+- Laboratory of Clinical Biochemistry – Molecular Diagnostics<br>
+2nd Dept. of Pediatrics, “P. & A. Kyriakou” Children’s Hospital, School of Medicine, NKUA<br>
+- Department of Biochemistry and Molecular Biology<br>
+Faculty of Biology, NKUA (_Affiliated Member_)
 
 **Short Bio**<br>
 - Dr. Avgeris studied Biology and received his MSc from the Faculty of Biology of the National and Kapodistrian University of Athens (NKUA). Dr. Avgeris holds a PhD degree in Clinical Biochemistry and Molecular Diagnostics from the Dept. of Biochemistry and Molecular Biology of the Faculty of Biology of NKUA. Following his PhD, he worked as PostDoc research fellow in the Dept. of Biochemistry and Molecular Biology as well as Academic Scholar of the Faculty of Biology of NKUA.<br>
