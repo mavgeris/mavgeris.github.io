@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Lifestyle and biochemical parameters that may hamper immune responses in pediatric patients after immunization with the BNT162b2 mRNA COVID-19 vaccine"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2025-03-10-bnt162b2-immune-response
+date: 2025-03-10
+venue: "Diseases"
+authors: "Damianaki A, Marmarinos A, **Avgeris M**, Gourgiotis D, Vlachopapadopoulou EA, Charakida M, Tsolia M, Kossiva L"
+paperurl: "https://pubmed.ncbi.nlm.nih.gov/40136618/"
+excerpt: "**Diseases.** 2025 Mar 10;13(3):78. doi: 10.3390/diseases13030078."
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+**PubMed:** [40136618](https://pubmed.ncbi.nlm.nih.gov/40136618/)   
+**DOI:** [10.3390/diseases13030078](https://doi.org/10.3390/diseases13030078)
