@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 **Margaritis Avgeris**<br>
-**Associate Professor**, School of Medicine, National and Kapodistrian University of Athens, Greece<br>
+Associate Professor, School of Medicine, National and Kapodistrian University of Athens, Greece<br>
 - Laboratory of Clinical Biochemistry – Molecular Diagnostics<br>
 2nd Dept. of Pediatrics, “P. & A. Kyriakou” Children’s Hospital, School of Medicine, NKUA<br>
 - Department of Biochemistry and Molecular Biology<br>
@@ -26,3 +26,12 @@ Epigenetics (DNA methylation)<br>
 Cell-free DNA (cfDNA) – Liquid biopsies<br>
 Epitranscriptomics (RNA methylation)<br>
 Next Generation Sequencing (NGS)<br>
+<br>
+<br>
+**Links**<br>
+PubMed: https://pubmed.ncbi.nlm.nih.gov/?term=Avgeris+M&sort=date <br>
+Google Scholar: https://scholar.google.com/citations?user=v6yBiJ4AAAAJ&hl=en&oi=ao <br>
+Research Gate: https://www.researchgate.net/profile/Margaritis-Avgeris-2 <br>
+Orcid: https://orcid.org/0000-0002-2135-9886 <br>
+Publons: https://publons.com/researcher/253544/margaritis-avgeris/ <br>
+LinkedIn: https://www.linkedin.com/in/margaritis-avgeris-a4659b8b/?originalSubdoma... <br>
