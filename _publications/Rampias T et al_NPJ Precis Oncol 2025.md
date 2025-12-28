@@ -7,7 +7,8 @@ date: 2025-10-28
 venue: "NPJ Precision Oncology"
 authors: "Rampias T, Goutas A, Karagiannis D, Kanaki Z, Makri A, Hoxhallari L, Koukouzeli FE, Paraskevopoulou V, Tsouraki D, Paschalidis N, Avgeris M, Scorilas A, Klinakis A"
 paperurl: "https://pubmed.ncbi.nlm.nih.gov/41152370/"
-excerpt: "NPJ Precis Oncol. 2025 Oct 28;9(1):336. doi: 10.1038/s41698-025-01101-6."
+
+citation: "Pilala KM, Koroneou S, Papadimitriou MA, Panoutsopoulou K, Soureas K, Giagkos GC, Levis P, Linardoutsos D, Stravodimos K, <strong>Avgeris M</strong>, Scorilas A. <em>Loss of METTL3 m6A methyltransferase results in short-term progression and poor treatment outcome of bladder cancer patients.</em> <strong>Int J Cancer</strong>. 2026;158(3):763–774. doi: 10.1002/ijc.70147."
 ---
 
 **PubMed:** [41152370](https://pubmed.ncbi.nlm.nih.gov/41152370/)  
