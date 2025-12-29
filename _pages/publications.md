@@ -356,3 +356,143 @@ PubMed: [32621752](https://pubmed.ncbi.nlm.nih.gov/32621752/) · DOI: [10.1002/i
 **Avgeris M**, Kokkinopoulou I, Maratou E, Mitrou P, Boutati E, Scorilas A, Fragoulis EG, Christodoulou MI  
 **Diabetes Res Clin Pract.** 2020;164:108187.  
 PubMed: [32360711](https://pubmed.ncbi.nlm.nih.gov/32360711/) · DOI: [10.1016/j.diabres.2020.108187](https://doi.org/10.1016/j.diabres.2020.108187)
+
+---
+
+**Circulating miR-146a and miR-134 in predicting drug-resistant epilepsy in patients with focal impaired awareness seizures**  
+Leontariti M, **Avgeris M**, Katsarou MS, Drakoulis N, Siatouni A, Verentzioti A, Alexoudi A, Fytraki A, Patrikelis P, Vassilacopoulou D, Gatzonis S, Sideris DC  
+**Epilepsia.** 2020;61(5):959–970.  
+PubMed: [32314378](https://pubmed.ncbi.nlm.nih.gov/32314378/) · DOI: [10.1111/epi.16502](https://doi.org/10.1111/epi.16502)
+
+---
+
+**ΔNp63 transcript loss in bladder cancer constitutes an independent molecular predictor of TaT1 patients post-treatment relapse and progression**  
+Papadimitriou MA, **Avgeris M**, Levis PK, Tokas T, Stravodimos K, Scorilas A  
+**J Cancer Res Clin Oncol.** 2019;145(12):3075–3087.  
+PubMed: [31595333](https://pubmed.ncbi.nlm.nih.gov/31595333/) · DOI: [10.1007/s00432-019-03028-5](https://doi.org/10.1007/s00432-019-03028-5)
+
+---
+
+**Circulating exosomal miRNAs: clinical significance in human cancers** *(Review)*  
+**Avgeris M**, Panoutsopoulou K, Papadimitriou MA, Scorilas A  
+**Expert Rev Mol Diagn.** 2019;19(11):979–995.  
+PubMed: [31594418](https://pubmed.ncbi.nlm.nih.gov/31594418/) · DOI: [10.1080/14737159.2019.1673732](https://doi.org/10.1080/14737159.2019.1673732)
+
+---
+
+**miR-203 is an independent molecular predictor of prognosis and treatment outcome in ovarian cancer: a multi-institutional study**  
+Panoutsopoulou K, **Avgeris M**, Mavridis K, Dreyer T, Dorn J, Obermayr E, Reinthaller A, Michaelidou K, Mahner S, Vergote I, Vanderstichele A, Braicu I, Sehouli J, Zeillinger R, Magdolen V, Scorilas A  
+**Carcinogenesis.** 2020;41(4):442–451.  
+PubMed: [31586203](https://pubmed.ncbi.nlm.nih.gov/31586203/) · DOI: [10.1093/carcin/bgz163](https://doi.org/10.1093/carcin/bgz163)
+
+---
+
+**HPV16 E6/E7 expression in circulating tumor cells in oropharyngeal squamous cell cancers: a pilot study**  
+Economopoulou P, Koutsodontis G, **Avgeris M**, Strati A, Kroupis C, Pateras I, Kirodimos E, Giotakis E, Kotsantis I, Maragoudakis P, Gorgoulis V, Scorilas A, Lianidou E, Psyrri A  
+**PLoS One.** 2019;14(5):e0215984.  
+PubMed: [31071126](https://pubmed.ncbi.nlm.nih.gov/31071126/) · DOI: [10.1371/journal.pone.0215984](https://doi.org/10.1371/journal.pone.0215984)
+
+---
+
+**Revisiting histone deacetylases in human tumorigenesis: the paradigm of urothelial bladder cancer** *(Review)*  
+Giannopoulou AF, Velentzas AD, Konstantakou EG, **Avgeris M**, Katarachia SA, Papandreou NC, Kalavros NI, Mpakou VE, Iconomidou V, Anastasiadou E, Kostakis IK, Papassideri IS, Voutsinas GE, Scorilas A, Stravopodis DJ  
+**Int J Mol Sci.** 2019;20(6):1291.  
+PubMed: [30875794](https://pubmed.ncbi.nlm.nih.gov/30875794/) · DOI: [10.3390/ijms20061291](https://doi.org/10.3390/ijms20061291)
+
+---
+
+**Unraveling UCA1 lncRNA prognostic utility in urothelial bladder cancer**  
+**Avgeris M**, Tsilimantou A, Levis PK, Rampias T, Papadimitriou MA, Panoutsopoulou K, Stravodimos K, Scorilas A  
+**Carcinogenesis.** 2019;40(8):965–974.  
+PubMed: [30815670](https://pubmed.ncbi.nlm.nih.gov/30815670/) · DOI: [10.1093/carcin/bgz045](https://doi.org/10.1093/carcin/bgz045)
+
+---
+
+**Gene-specific intron retention serves as molecular signature that distinguishes melanoma from non-melanoma cancer cells in Greek patients**  
+Giannopoulou AF, Konstantakou EG, Velentzas AD, Avgeris SN, **Avgeris M**, Papandreou NC, Zoi I, Filippa V, Katarachia S, Lampidonis AD, Prombona A, Syntichaki P, Piperi C, Basdra EK, Iconomidou V, Papadavid E, Anastasiadou E, Papassideri IS, Papavassiliou AG, Voutsinas GE, Scorilas A, Stravopodis DJ  
+**Int J Mol Sci.** 2019;20(4):937.  
+PubMed: [30795533](https://pubmed.ncbi.nlm.nih.gov/30795533/) · DOI: [10.3390/ijms20040937](https://doi.org/10.3390/ijms20040937)
+
+---
+
+**Blood-based analysis of type-2 diabetes mellitus susceptibility genes identifies specific transcript variants with deregulated expression and association with disease risk**  
+Christodoulou MI, **Avgeris M**, Kokkinopoulou I, Maratou E, Mitrou P, Kontos CK, Pappas E, Boutati E, Scorilas A, Fragoulis EG  
+**Sci Rep.** 2019;9(1):1512.  
+PubMed: [30728419](https://pubmed.ncbi.nlm.nih.gov/30728419/) · DOI: [10.1038/s41598-018-37856-1](https://doi.org/10.1038/s41598-018-37856-1)
+
+---
+
+**Where there is fire there is SMOKE: A scalable edge computing framework for early fire detection**  
+**Avgeris M**, Spatharakis D, Dechouniotis D, Kalatzis N, Roussaki I, Papavassiliou S  
+**Sensors (Basel).** 2019;19(3):639.  
+PubMed: [30717464](https://pubmed.ncbi.nlm.nih.gov/30717464/) · DOI: [10.3390/s19030639](https://doi.org/10.3390/s19030639)
+
+---
+
+**Semantic interoperability for IoT platforms in support of decision making: An experiment on early wildfire detection**  
+Kalatzis N, Routis G, Marinellis Y, **Avgeris M**, Roussaki I, Papavassiliou S, Anagnostou M  
+**Sensors (Basel).** 2019;19(3):528.  
+PubMed: [30691223](https://pubmed.ncbi.nlm.nih.gov/30691223/) · DOI: [10.3390/s19030528](https://doi.org/10.3390/s19030528)
+
+---
+
+**The lysine-specific methyltransferase KMT2C/MLL3 regulates DNA repair components in cancer**  
+Rampias T, Karagiannis D, **Avgeris M**, Polyzos A, Kokkalis A, Kanaki Z, Kousidou E, Tzetis M, Kanavakis E, Stravodimos K, Manola KN, Pantelias GE, Scorilas A, Klinakis A  
+**EMBO Rep.** 2019;20(3):e46821.  
+PubMed: [30665945](https://pubmed.ncbi.nlm.nih.gov/30665945/) · DOI: [10.15252/embr.201846821](https://doi.org/10.15252/embr.201846821)
+
+---
+
+**Molecular effects of treatment of human colorectal cancer cells with natural and classical chemotherapeutic drugs: alterations in the expression of apoptosis-related BCL2 family members, including BCL2L12**  
+Kontos CK, **Avgeris M**, Vassilacopoulou D, Ardavanis A, Scorilas A  
+**Curr Pharm Biotechnol.** 2018;19(13):1064–1075.  
+PubMed: [30417787](https://pubmed.ncbi.nlm.nih.gov/30417787/) · DOI: [10.2174/1389201019666181112101410](https://doi.org/10.2174/1389201019666181112101410)
+
+---
+
+**Loss of GAS5 tumour suppressor lncRNA: an independent molecular cancer biomarker for short-term relapse and progression in bladder cancer patients**  
+**Avgeris M**, Tsilimantou A, Levis PK, Tokas T, Sideris DC, Stravodimos K, Ardavanis A, Scorilas A  
+**Br J Cancer.** 2018;119(12):1477–1486.  
+PubMed: [30374124](https://pubmed.ncbi.nlm.nih.gov/30374124/) · DOI: [10.1038/s41416-018-0320-6](https://doi.org/10.1038/s41416-018-0320-6)
+
+---
+
+**miRNA and long non-coding RNA: molecular function and clinical value in breast and ovarian cancers** *(Review)*  
+Panoutsopoulou K, **Avgeris M**, Scorilas A  
+**Expert Rev Mol Diagn.** 2018;18(11):963–979.  
+PubMed: [30338716](https://pubmed.ncbi.nlm.nih.gov/30338716/) · DOI: [10.1080/14737159.2018.1538794](https://doi.org/10.1080/14737159.2018.1538794)
+
+---
+
+**BCL2L12 improves risk stratification and prediction of BFM-chemotherapy response in childhood acute lymphoblastic leukemia**  
+**Avgeris M**, Stamati L, Kontos CK, Piatopoulou D, Marmarinos A, Xagorari M, Baka M, Doganis D, Anastasiou T, Kosmidis H, Gourgiotis D, Scorilas A  
+**Clin Chem Lab Med.** 2018;56(12):2104–2118.  
+PubMed: [30016275](https://pubmed.ncbi.nlm.nih.gov/30016275/) · DOI: [10.1515/cclm-2018-0507](https://doi.org/10.1515/cclm-2018-0507)
+
+---
+
+**Clinical utility of miR-143/miR-182 levels in prognosis and risk stratification specificity of BFM-treated childhood acute lymphoblastic leukemia**  
+Piatopoulou D, **Avgeris M**, Drakaki I, Marmarinos A, Xagorari M, Baka M, Pourtsidis A, Kossiva L, Gourgiotis D, Scorilas A  
+**Ann Hematol.** 2018;97(7):1169–1182.  
+PubMed: [29556721](https://pubmed.ncbi.nlm.nih.gov/29556721/) · DOI: [10.1007/s00277-018-3292-y](https://doi.org/10.1007/s00277-018-3292-y)
+
+---
+
+**miR-221/222 cluster expression improves clinical stratification of non-muscle invasive bladder cancer (TaT1) patients' risk for short-term relapse and progression**  
+Tsikrika FD, **Avgeris M**, Levis PK, Tokas T, Stravodimos K, Scorilas A  
+**Genes Chromosomes Cancer.** 2018;57(3):150–161.  
+PubMed: [29181884](https://pubmed.ncbi.nlm.nih.gov/29181884/) · DOI: [10.1002/gcc.22516](https://doi.org/10.1002/gcc.22516)
+
+---
+
+**Prognostic significance of PD-L1 expression on circulating tumor cells in patients with head and neck squamous cell carcinoma**  
+Strati A, Koutsodontis G, Papaxoinis G, Angelidis I, Zavridou M, Economopoulou P, Kotsantis I, **Avgeris M**, Mazel M, Perisanidis C, Sasaki C, Alix-Panabières C, Lianidou E, Psyrri A  
+**Ann Oncol.** 2017;28(8):1923–1933.  
+PubMed: [28838214](https://pubmed.ncbi.nlm.nih.gov/28838214/) · DOI: [10.1093/annonc/mdx206](https://doi.org/10.1093/annonc/mdx206)
+
+---
+
+**miR-125b predicts childhood acute lymphoblastic leukaemia poor response to BFM chemotherapy treatment**  
+Piatopoulou D, **Avgeris M**, Marmarinos A, Xagorari M, Baka M, Doganis D, Kossiva L, Scorilas A, Gourgiotis D  
+**Br J Cancer.** 2017;117(6):801–812.  
+PubMed: [28787435](https://pubmed.ncbi.nlm.nih.gov/28787435/) · DOI: [10.1038/bjc.2017.256](https://doi.org/10.1038/bjc.2017.256)
