@@ -114,14 +114,14 @@ PubMed: [38159750](https://pubmed.ncbi.nlm.nih.gov/38159750/) · DOI: [10.1016/j
 
 ---
 
-**miRNA-based technologies in cancer therapy** *(Review)*  
+**miRNA-based technologies in cancer therapy**  
 Pagoni M, Cava C, Sideris DC, **Avgeris M**, Zoumpourlis V, Michalopoulos I, Drakoulis N  
 **J Pers Med.** 2023;13(11):1586.  
 PubMed: [38003902](https://pubmed.ncbi.nlm.nih.gov/38003902/) · DOI: [10.3390/jpm13111586](https://doi.org/10.3390/jpm13111586)
 
 ---
 
-**Cancer quiescence: non-coding RNAs in the spotlight** *(Review)*  
+**Cancer quiescence: non-coding RNAs in the spotlight**  
 Soureas K, Papadimitriou MA, Panoutsopoulou K, Pilala KM, Scorilas A, **Avgeris M**  
 **Trends Mol Med.** 2023;29(10):843–858.  
 PubMed: [37516569](https://pubmed.ncbi.nlm.nih.gov/37516569/) · DOI: [10.1016/j.molmed.2023.07.003](https://doi.org/10.1016/j.molmed.2023.07.003)
@@ -233,7 +233,7 @@ PubMed: [35856606](https://pubmed.ncbi.nlm.nih.gov/35856606/) · DOI: [10.1128/m
 
 ---
 
-**Epi-miRNAs: Modern mediators of methylation status in human cancers** *(Review)*  
+**Epi-miRNAs: Modern mediators of methylation status in human cancers**  
 Papadimitriou MA, Panoutsopoulou K, Pilala KM, Scorilas A, **Avgeris M**  
 **Wiley Interdiscip Rev RNA.** 2023;14(2):e1735.  
 PubMed: [35580998](https://pubmed.ncbi.nlm.nih.gov/35580998/) · DOI: [10.1002/wrna.1735](https://doi.org/10.1002/wrna.1735)
@@ -331,7 +331,7 @@ PubMed: [33291319](https://pubmed.ncbi.nlm.nih.gov/33291319/) · DOI: [10.3390/c
 
 ---
 
-**Analytical methodologies for the detection of SARS-CoV-2 in wastewater: Protocols and future perspectives** *(Review)*  
+**Analytical methodologies for the detection of SARS-CoV-2 in wastewater: Protocols and future perspectives**  
 Alygizakis N, Markou AN, Rousis NI, Galani A, **Avgeris M**, Adamopoulos PG, Scorilas A, Lianidou ES, Paraskevis D, Tsiodras S, Tsakris A, Dimopoulos MA, Thomaidis NS  
 **Trends Analyt Chem.** 2021;134:116125.  
 PubMed: [33235400](https://pubmed.ncbi.nlm.nih.gov/33235400/) · DOI: [10.1016/j.trac.2020.116125](https://doi.org/10.1016/j.trac.2020.116125)
@@ -373,7 +373,7 @@ PubMed: [31595333](https://pubmed.ncbi.nlm.nih.gov/31595333/) · DOI: [10.1007/s
 
 ---
 
-**Circulating exosomal miRNAs: clinical significance in human cancers** *(Review)*  
+**Circulating exosomal miRNAs: clinical significance in human cancers**  
 **Avgeris M**, Panoutsopoulou K, Papadimitriou MA, Scorilas A  
 **Expert Rev Mol Diagn.** 2019;19(11):979–995.  
 PubMed: [31594418](https://pubmed.ncbi.nlm.nih.gov/31594418/) · DOI: [10.1080/14737159.2019.1673732](https://doi.org/10.1080/14737159.2019.1673732)
@@ -394,7 +394,7 @@ PubMed: [31071126](https://pubmed.ncbi.nlm.nih.gov/31071126/) · DOI: [10.1371/j
 
 ---
 
-**Revisiting histone deacetylases in human tumorigenesis: the paradigm of urothelial bladder cancer** *(Review)*  
+**Revisiting histone deacetylases in human tumorigenesis: the paradigm of urothelial bladder cancer**  
 Giannopoulou AF, Velentzas AD, Konstantakou EG, **Avgeris M**, Katarachia SA, Papandreou NC, Kalavros NI, Mpakou VE, Iconomidou V, Anastasiadou E, Kostakis IK, Papassideri IS, Voutsinas GE, Scorilas A, Stravopodis DJ  
 **Int J Mol Sci.** 2019;20(6):1291.  
 PubMed: [30875794](https://pubmed.ncbi.nlm.nih.gov/30875794/) · DOI: [10.3390/ijms20061291](https://doi.org/10.3390/ijms20061291)
@@ -443,7 +443,7 @@ PubMed: [30374124](https://pubmed.ncbi.nlm.nih.gov/30374124/) · DOI: [10.1038/s
 
 ---
 
-**miRNA and long non-coding RNA: molecular function and clinical value in breast and ovarian cancers** *(Review)*  
+**miRNA and long non-coding RNA: molecular function and clinical value in breast and ovarian cancers**  
 Panoutsopoulou K, **Avgeris M**, Scorilas A  
 **Expert Rev Mol Diagn.** 2018;18(11):963–979.  
 PubMed: [30338716](https://pubmed.ncbi.nlm.nih.gov/30338716/) · DOI: [10.1080/14737159.2018.1538794](https://doi.org/10.1080/14737159.2018.1538794)
@@ -513,7 +513,7 @@ PubMed: [27858162](https://pubmed.ncbi.nlm.nih.gov/27858162/) · DOI: [10.1007/s
 
 ---
 
-**Kallikrein-related peptidases (KLKs) as emerging therapeutic targets: focus on prostate cancer and skin pathologies** *(Review)*  
+**Kallikrein-related peptidases (KLKs) as emerging therapeutic targets: focus on prostate cancer and skin pathologies**  
 **Avgeris M**, Scorilas A  
 **Expert Opin Ther Targets.** 2016;20(7):801–818.  
 PubMed: [26941073](https://pubmed.ncbi.nlm.nih.gov/26941073/) · DOI: [10.1517/14728222.2016.1147560](https://doi.org/10.1517/14728222.2016.1147560)
@@ -555,7 +555,7 @@ PubMed: [25153390](https://pubmed.ncbi.nlm.nih.gov/25153390/) · DOI: [10.1515/h
 
 ---
 
-**Targeting kallikrein-related peptidases in prostate cancer** *(Review)*  
+**Targeting kallikrein-related peptidases in prostate cancer**  
 Mavridis K, **Avgeris M**, Scorilas A  
 **Expert Opin Ther Targets.** 2014;18(4):365–383.  
 PubMed: [24571737](https://pubmed.ncbi.nlm.nih.gov/24571737/) · DOI: [10.1517/14728222.2014.880693](https://doi.org/10.1517/14728222.2014.880693)
@@ -583,7 +583,7 @@ PubMed: [22571720](https://pubmed.ncbi.nlm.nih.gov/22571720/) · DOI: [10.1111/j
 
 ---
 
-**Kallikrein-related peptidases in prostate, breast, and ovarian cancers: from pathobiology to clinical relevance** *(Review)*  
+**Kallikrein-related peptidases in prostate, breast, and ovarian cancers: from pathobiology to clinical relevance**  
 **Avgeris M**, Mavridis K, Scorilas A  
 **Biol Chem.** 2012;393(5):301–317.  
 PubMed: [22505514](https://pubmed.ncbi.nlm.nih.gov/22505514/) · DOI: [10.1515/hsz-2011-0260](https://doi.org/10.1515/hsz-2011-0260)
@@ -611,7 +611,7 @@ PubMed: [21057706](https://pubmed.ncbi.nlm.nih.gov/21057706/) · DOI: [10.1160/T
 
 ---
 
-**Kallikrein-related peptidase genes as promising biomarkers for prognosis and monitoring of human malignancies** *(Review)*  
+**Kallikrein-related peptidase genes as promising biomarkers for prognosis and monitoring of human malignancies**  
 **Avgeris M**, Mavridis K, Scorilas A  
 **Biol Chem.** 2010;391(5):505–511.  
 PubMed: [20302518](https://pubmed.ncbi.nlm.nih.gov/20302518/) · DOI: [10.1515/BC.2010.056](https://doi.org/10.1515/BC.2010.056)
