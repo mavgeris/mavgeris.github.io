@@ -1,16 +1,20 @@
+/* Global text size */
 .page__content {
   font-size: 0.9rem;
   line-height: 1.55;
 }
 
-.archive__item {
-  margin-bottom: 0.8rem;
+/* Compact paragraph spacing */
+.page__content p {
+  margin-bottom: 0.35rem;
 }
 
-.archive__item p {
-  margin-bottom: 0.3rem;
+/* Compact separators */
+.page__content hr {
+  margin: 0.6rem 0;
 }
 
-.archive__item-title {
-  margin-bottom: 0.4rem;
+/* Compact section titles */
+.page__content h2 {
+  margin: 1rem 0 0.5rem;
 }
