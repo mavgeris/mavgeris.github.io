@@ -8,7 +8,7 @@ For a complete and up-to-date list visit [**PubMed**](https://pubmed.ncbi.nlm.ni
 
 ## Journal Articles
 
-KMT2C inactivation leads to PTEN downregulation and tolerance to DNA damage during cell cycle progression  
+_**KMT2C inactivation leads to PTEN downregulation and tolerance to DNA damage during cell cycle progression**_  
 Rampias T, Goutas A, Karagiannis D, Kanaki Z, Makri A, Hoxhallari L, Koukouzeli FE, Paraskevopoulou V, Tsouraki D, Paschalidis N, **Avgeris M**, Scorilas A, Klinakis A  
 **NPJ Precis Oncol.** 2025;9(1):336.  
 PubMed: [41152370](https://pubmed.ncbi.nlm.nih.gov/41152370/) · DOI: [10.1038/s41698-025-01101-6](https://doi.org/10.1038/s41698-025-01101-6)
