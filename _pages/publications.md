@@ -496,3 +496,157 @@ PubMed: [28838214](https://pubmed.ncbi.nlm.nih.gov/28838214/) · DOI: [10.1093/a
 Piatopoulou D, **Avgeris M**, Marmarinos A, Xagorari M, Baka M, Doganis D, Kossiva L, Scorilas A, Gourgiotis D  
 **Br J Cancer.** 2017;117(6):801–812.  
 PubMed: [28787435](https://pubmed.ncbi.nlm.nih.gov/28787435/) · DOI: [10.1038/bjc.2017.256](https://doi.org/10.1038/bjc.2017.256)
+
+---
+
+**Combining the ETHOS operating ergonomic platform, three-dimensional laparoscopic camera, and Radius surgical system manipulators improves ergonomics in urologic laparoscopy: comparison with conventional laparoscopy and da Vinci in a pelvic trainer**  
+Tokas T, Gözen AS, **Avgeris M**, Tschada A, Fiedler M, Klein J, Rassweiler J  
+**Eur Urol Focus.** 2017;3(4–5):413–420.  
+PubMed: [28753821](https://pubmed.ncbi.nlm.nih.gov/28753821/) · DOI: [10.1016/j.euf.2016.11.006](https://doi.org/10.1016/j.euf.2016.11.006)
+
+---
+
+**Evaluation of the impact of tumor HPV status on outcome in patients with locally advanced unresectable head and neck squamous cell carcinoma receiving cisplatin and 5-fluorouracil with or without docetaxel: a subset analysis of the EORTC 24971 study** *(Clinical Trial)*  
+Psyrri A, Fortpied C, Koutsodontis G, **Avgeris M**, Kroupis C, Goutas N, Menis J, Herman L, Giurgea L, Remenár É, Degardin M, Pateras IS, Langendijk JA, van Herpen CML, Awada A, Germà-Lluch JR, Kienzer HR, Licitra L, Vermorken JB  
+**Ann Oncol.** 2017;28(9):2213–2218.  
+PubMed: [28651338](https://pubmed.ncbi.nlm.nih.gov/28651338/) · DOI: [10.1093/annonc/mdx320](https://doi.org/10.1093/annonc/mdx320)
+
+---
+
+**miR-15a-5p, a novel prognostic biomarker predicting recurrent colorectal adenocarcinoma**  
+Kontos CK, Tsiakanikas P, **Avgeris M**, Papadopoulos IN, Scorilas A  
+**Mol Diagn Ther.** 2017;21(4):453–464.  
+PubMed: [28405803](https://pubmed.ncbi.nlm.nih.gov/28405803/) · DOI: [10.1007/s40291-017-0270-3](https://doi.org/10.1007/s40291-017-0270-3)
+
+---
+
+**Downregulated KLK13 expression in bladder cancer highlights tumor aggressiveness and unfavorable patients’ prognosis**  
+Tokas T, **Avgeris M**, Alamanis C, Scorilas A, Stravodimos KG, Constantinides CA  
+**J Cancer Res Clin Oncol.** 2017;143(3):521–532.  
+PubMed: [27858162](https://pubmed.ncbi.nlm.nih.gov/27858162/) · DOI: [10.1007/s00432-016-2301-6](https://doi.org/10.1007/s00432-016-2301-6)
+
+---
+
+**Kallikrein-related peptidases (KLKs) as emerging therapeutic targets: focus on prostate cancer and skin pathologies** *(Review)*  
+**Avgeris M**, Scorilas A  
+**Expert Opin Ther Targets.** 2016;20(7):801–818.  
+PubMed: [26941073](https://pubmed.ncbi.nlm.nih.gov/26941073/) · DOI: [10.1517/14728222.2016.1147560](https://doi.org/10.1517/14728222.2016.1147560)
+
+---
+
+**Evaluation of PD-L1 expression and associated tumor-infiltrating lymphocytes in laryngeal squamous cell carcinoma**  
+Vassilakopoulou M, **Avgeris M**, Velcheti V, Kotoula V, Rampias T, Chatzopoulos K, Perisanidis C, Kontos CK, Giotakis AI, Scorilas A, Rimm D, Sasaki C, Fountzilas G, Psyrri A  
+**Clin Cancer Res.** 2016;22(3):704–713.  
+PubMed: [26408403](https://pubmed.ncbi.nlm.nih.gov/26408403/) · DOI: [10.1158/1078-0432.CCR-15-1543](https://doi.org/10.1158/1078-0432.CCR-15-1543)
+
+---
+
+**Overexpression of BCL2 and BAX following BFM induction therapy predicts childhood acute lymphoblastic leukemia patients’ poor response to treatment and short-term relapse**  
+Stamati L, **Avgeris M**, Kosmidis H, Baka M, Anastasiou T, Piatopoulou D, Scorilas A, Gourgiotis D  
+**J Cancer Res Clin Oncol.** 2015;141(11):2023–2036.  
+PubMed: [25982455](https://pubmed.ncbi.nlm.nih.gov/25982455/) · DOI: [10.1007/s00432-015-1982-6](https://doi.org/10.1007/s00432-015-1982-6)
+
+---
+
+**Uncovering the clinical utility of miR-143, miR-145 and miR-224 for predicting the survival of bladder cancer patients following treatment**  
+**Avgeris M**, Mavridis K, Tokas T, Stravodimos K, Fragoulis EG, Scorilas A  
+**Carcinogenesis.** 2015;36(5):528–537.  
+PubMed: [25804644](https://pubmed.ncbi.nlm.nih.gov/25804644/) · DOI: [10.1093/carcin/bgv024](https://doi.org/10.1093/carcin/bgv024)
+
+---
+
+**A new tumor suppressor role for the Notch pathway in bladder cancer**  
+Rampias T, Vgenopoulou P, **Avgeris M**, Polyzos A, Stravodimos K, Valavanis C, Scorilas A, Klinakis A  
+**Nat Med.** 2014;20(10):1199–1205.  
+PubMed: [25194568](https://pubmed.ncbi.nlm.nih.gov/25194568/) · DOI: [10.1038/nm.3678](https://doi.org/10.1038/nm.3678)
+
+---
+
+**Loss of miR-378 in prostate cancer, a common regulator of KLK2 and KLK4, correlates with aggressive disease phenotype and predicts short-term relapse**  
+**Avgeris M**, Stravodimos K, Scorilas A  
+**Biol Chem.** 2014;395(9):1095–1104.  
+PubMed: [25153390](https://pubmed.ncbi.nlm.nih.gov/25153390/) · DOI: [10.1515/hsz-2014-0150](https://doi.org/10.1515/hsz-2014-0150)
+
+---
+
+**Targeting kallikrein-related peptidases in prostate cancer** *(Review)*  
+Mavridis K, **Avgeris M**, Scorilas A  
+**Expert Opin Ther Targets.** 2014;18(4):365–383.  
+PubMed: [24571737](https://pubmed.ncbi.nlm.nih.gov/24571737/) · DOI: [10.1517/14728222.2014.880693](https://doi.org/10.1517/14728222.2014.880693)
+
+---
+
+**Increased BCL2L12 expression predicts the short-term relapse of patients with TaT1 bladder cancer following transurethral resection of bladder tumors**  
+Foutadakis S, **Avgeris M**, Tokas T, Stravodimos K, Scorilas A  
+**Urol Oncol.** 2014;32(1):39.e29–39.e36.  
+PubMed: [23790536](https://pubmed.ncbi.nlm.nih.gov/23790536/) · DOI: [10.1016/j.urolonc.2013.04.005](https://doi.org/10.1016/j.urolonc.2013.04.005)
+
+---
+
+**The loss of the tumour-suppressor miR-145 results in shorter disease-free survival of prostate cancer patients**  
+**Avgeris M**, Stravodimos K, Fragoulis EG, Scorilas A  
+**Br J Cancer.** 2013;108(12):2573–2581.  
+PubMed: [23703249](https://pubmed.ncbi.nlm.nih.gov/23703249/) · DOI: [10.1038/bjc.2013.250](https://doi.org/10.1038/bjc.2013.250)
+
+---
+
+**L-dopa decarboxylase (DDC) gene expression is related to outcome in patients with prostate cancer**  
+Koutalellis G, Stravodimos K, **Avgeris M**, Mavridis K, Scorilas A, Lazaris A, Constantinides C  
+**BJU Int.** 2012;110(6 Pt B):E267–E273.  
+PubMed: [22571720](https://pubmed.ncbi.nlm.nih.gov/22571720/) · DOI: [10.1111/j.1464-410X.2012.11152.x](https://doi.org/10.1111/j.1464-410X.2012.11152.x)
+
+---
+
+**Kallikrein-related peptidases in prostate, breast, and ovarian cancers: from pathobiology to clinical relevance** *(Review)*  
+**Avgeris M**, Mavridis K, Scorilas A  
+**Biol Chem.** 2012;393(5):301–317.  
+PubMed: [22505514](https://pubmed.ncbi.nlm.nih.gov/22505514/) · DOI: [10.1515/hsz-2011-0260](https://doi.org/10.1515/hsz-2011-0260)
+
+---
+
+**Down-regulation of kallikrein-related peptidase 5 (KLK5) expression in breast cancer patients: a biomarker for the differential diagnosis of breast lesions**  
+**Avgeris M**, Papachristopoulou G, Polychronis A, Scorilas A  
+**Clin Proteomics.** 2011;8(1):5.  
+PubMed: [21906360](https://pubmed.ncbi.nlm.nih.gov/21906360/) · DOI: [10.1186/1559-0275-8-5](https://doi.org/10.1186/1559-0275-8-5)
+
+---
+
+**Kallikrein-related peptidase 4 gene (KLK4) in prostate tumors: quantitative expression analysis and evaluation of its clinical significance**  
+**Avgeris M**, Stravodimos K, Scorilas A  
+**Prostate.** 2011;71(16):1780–1789.  
+PubMed: [21520157](https://pubmed.ncbi.nlm.nih.gov/21520157/) · DOI: [10.1002/pros.21395](https://doi.org/10.1002/pros.21395)
+
+---
+
+**Quantitative expression analysis and study of the novel human kallikrein-related peptidase 14 gene (KLK14) in malignant and benign breast tissues**  
+Papachristopoulou G, **Avgeris M**, Charlaftis A, Scorilas A  
+**Thromb Haemost.** 2011;105(1):131–137.  
+PubMed: [21057706](https://pubmed.ncbi.nlm.nih.gov/21057706/) · DOI: [10.1160/TH10-02-0092](https://doi.org/10.1160/TH10-02-0092)
+
+---
+
+**Kallikrein-related peptidase genes as promising biomarkers for prognosis and monitoring of human malignancies** *(Review)*  
+**Avgeris M**, Mavridis K, Scorilas A  
+**Biol Chem.** 2010;391(5):505–511.  
+PubMed: [20302518](https://pubmed.ncbi.nlm.nih.gov/20302518/) · DOI: [10.1515/BC.2010.056](https://doi.org/10.1515/BC.2010.056)
+
+---
+
+**Expression analysis and study of the KLK15 mRNA splice variants in prostate cancer and benign prostatic hyperplasia**  
+Mavridis K, **Avgeris M**, Koutalellis G, Stravodimos K, Scorilas A  
+**Cancer Sci.** 2010;101(3):693–699.  
+PubMed: [20067463](https://pubmed.ncbi.nlm.nih.gov/20067463/) · DOI: [10.1111/j.1349-7006.2009.01450.x](https://doi.org/10.1111/j.1349-7006.2009.01450.x)
+
+---
+
+**Expression analysis and study of KLK4 in benign and malignant breast tumours**  
+Papachristopoulou G, **Avgeris M**, Scorilas A  
+**Thromb Haemost.** 2009;101(2):381–387.  
+PubMed: [19190825](https://pubmed.ncbi.nlm.nih.gov/19190825/)
+
+---
+
+**Expression analysis and clinical utility of L-Dopa decarboxylase (DDC) in prostate cancer**  
+**Avgeris M**, Koutalellis G, Fragoulis EG, Scorilas A  
+**Clin Biochem.** 2008;41(14–15):1140–1149.  
+PubMed: [18586020](https://pubmed.ncbi.nlm.nih.gov/18586020/) · DOI: [10.1016/j.clinbiochem.2008.04.026](https://doi.org/10.1016/j.clinbiochem.2008.04.026)
