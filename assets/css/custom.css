@@ -1,4 +1,16 @@
 .page__content {
-  font-size: 0.90rem;
+  font-size: 0.9rem;
   line-height: 1.55;
+}
+
+.archive__item {
+  margin-bottom: 0.8rem;
+}
+
+.archive__item p {
+  margin-bottom: 0.3rem;
+}
+
+.archive__item-title {
+  margin-bottom: 0.4rem;
 }
