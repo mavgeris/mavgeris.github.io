@@ -146,3 +146,73 @@ PubMed: [37424082](https://pubmed.ncbi.nlm.nih.gov/37424082/) · DOI: [10.1080/1
 Papasavva M, Amvrosiou S, Pilala KM, Soureas K, Christodoulou P, Ji Y, Stravodimos K, Xu D, Scorilas A, **Avgeris M**, Christodoulou MI  
 **Int J Mol Sci.** 2023;24(11):9258.  
 PubMed: [37298214](https://pubmed.ncbi.nlm.nih.gov/37298214/) · DOI: [10.3390/ijms24119258](https://doi.org/10.3390/ijms24119258)
+
+---
+
+**miRNA-seq identification and clinical validation of CD138+ and circulating miR-25 in treatment response of multiple myeloma**  
+Papadimitriou MA, Soureas K, Papanota AM, Tsiakanikas P, Adamopoulos PG, Ntanasis-Stathopoulos I, Malandrakis P, Gavriatopoulou M, Sideris DC, Kastritis E, **Avgeris M**, Dimopoulos MA, Terpos E, Scorilas A  
+**J Transl Med.** 2023;21(1):245.  
+PubMed: [37024879](https://pubmed.ncbi.nlm.nih.gov/37024879/) · DOI: [10.1186/s12967-023-04034-5](https://doi.org/10.1186/s12967-023-04034-5)
+
+---
+
+**Short-term starvation potentiates the efficacy of chemotherapy in triple-negative breast cancer via metabolic reprogramming**  
+Pateras IS, Williams C, Gianniou DD, Margetis AT, **Avgeris M**, Rousakis P, Legaki AI, Mirtschink P, Zhang W, Panoutsopoulou K, Delis AD, Pagakis SN, Tang W, Ambs S, Warpman Berglund U, Helleday T, Varvarigou A, Chatzigeorgiou A, Nordström A, Tsitsilonis OE, Trougakos IP, Gilthorpe JD, Frisan T  
+**J Transl Med.** 2023;21(1):169.  
+PubMed: [36869333](https://pubmed.ncbi.nlm.nih.gov/36869333/) · DOI: [10.1186/s12967-023-03935-9](https://doi.org/10.1186/s12967-023-03935-9)
+
+---
+
+**Evaluation of the small heat shock protein family members HSPB2 and HSPB3 in bladder cancer prognosis and progression**  
+Gianniou DD, Sklirou AD, Papadimitriou MA, Pilala KM, Stravodimos K, **Avgeris M**, Scorilas A, Trougakos IP  
+**Int J Mol Sci.** 2023;24(3):2609.  
+PubMed: [36768927](https://pubmed.ncbi.nlm.nih.gov/36768927/) · DOI: [10.3390/ijms24032609](https://doi.org/10.3390/ijms24032609)
+
+---
+
+**Preoperative cell-free DNA (cfDNA) in muscle-invasive bladder cancer treatment outcome**  
+Papadimitriou MA, Levis P, Kotronopoulos G, Stravodimos K, **Avgeris M**, Scorilas A  
+**Clin Chem.** 2023;69(4):399–410.  
+PubMed: [36738246](https://pubmed.ncbi.nlm.nih.gov/36738246/) · DOI: [10.1093/clinchem/hvac218](https://doi.org/10.1093/clinchem/hvac218)
+
+---
+
+**Advancing desulfurization in the model biocatalyst *Rhodococcus qingshengii* IGTS8 via an in locus combinatorial approach**  
+Martzoukou O, Amillis S, Glekas PD, Breyanni D, **Avgeris M**, Scorilas A, Kekos D, Pachnos M, Mavridis G, Mamma D, Hatzinikolaou DG  
+**Appl Environ Microbiol.** 2023;89(2):e01970-22.  
+PubMed: [36688659](https://pubmed.ncbi.nlm.nih.gov/36688659/) · DOI: [10.1128/aem.01970-22](https://doi.org/10.1128/aem.01970-22)
+
+---
+
+**tRNA-derived small RNA 3′U-tRFValCAC promotes tumour migration and early progression in ovarian cancer**  
+Panoutsopoulou K, Magkou P, Dreyer T, Dorn J, Obermayr E, Mahner S, van Gorp T, Braicu I, Magdolen V, Zeillinger R, **Avgeris M**, Scorilas A  
+**Eur J Cancer.** 2023;180:134–145.  
+PubMed: [36599181](https://pubmed.ncbi.nlm.nih.gov/36599181/) · DOI: [10.1016/j.ejca.2022.11.033](https://doi.org/10.1016/j.ejca.2022.11.033)
+
+---
+
+**Repression of miR-146a in predicting poor treatment outcome in triple-negative breast cancer**  
+Panoutsopoulou K, Liu Y, **Avgeris M**, Dreyer T, Dorn J, Magdolen V, Scorilas A  
+**Clin Biochem.** 2023;114:43–51.  
+PubMed: [36502883](https://pubmed.ncbi.nlm.nih.gov/36502883/) · DOI: [10.1016/j.clinbiochem.2022.12.004](https://doi.org/10.1016/j.clinbiochem.2022.12.004)
+
+---
+
+**First trimester maternal plasma aberrant miRNA expression associated with spontaneous preterm birth**  
+Mavreli D, Theodora M, **Avgeris M**, Papantoniou N, Antsaklis P, Daskalakis G, Kolialexi A  
+**Int J Mol Sci.** 2022;23(23):14972.  
+PubMed: [36499299](https://pubmed.ncbi.nlm.nih.gov/36499299/) · DOI: [10.3390/ijms232314972](https://doi.org/10.3390/ijms232314972)
+
+---
+
+**Corrigendum to “Delta SARS-CoV-2 variant is entirely substituted by the omicron variant during the fifth COVID-19 wave in Attica region”**  
+Galani A, Markou A, Dimitrakopoulos L, Kontou A, Kostakis M, Kapes V, Diamantopoulos MA, Adamopoulos PG, **Avgeris M**, Lianidou E, Scorilas A, Paraskevis D, Tsiodras S, Dimopoulos MA, Thomaidis N  
+**Sci Total Environ.** 2023;860:160544.  
+PubMed: [36460542](https://pubmed.ncbi.nlm.nih.gov/36460542/) · DOI: [10.1016/j.scitotenv.2022.160544](https://doi.org/10.1016/j.scitotenv.2022.160544)
+
+---
+
+**Epigenetic regulation of MIR145 core promoter controls miR-143/145 cluster in bladder cancer progression and treatment outcome**  
+Pilala KM, Papadimitriou MA, Panoutsopoulou K, Barbarigos P, Levis P, Kotronopoulos G, Stravodimos K, Scorilas A, **Avgeris M**  
+**Mol Ther Nucleic Acids.** 2022;30:311–322.  
+PubMed: [36320325](https://pubmed.ncbi.nlm.nih.gov/36320325/) · DOI: [10.1016/j.omtn.2022.10.001](https://doi.org/10.1016/j.omtn.2022.10.001)
