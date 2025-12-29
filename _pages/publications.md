@@ -247,13 +247,6 @@ PubMed: [35398404](https://pubmed.ncbi.nlm.nih.gov/35398404/) · DOI: [10.1016/j
 
 ---
 
-**ENERDGE: Distributed energy-aware resource allocation at the edge**  
-**Avgeris M**, Spatharakis D, Dechouniotis D, Leivadeas A, Karyotis V, Papavassiliou S  
-**Sensors (Basel).** 2022;22(2):660.  
-PubMed: [35062619](https://pubmed.ncbi.nlm.nih.gov/35062619/) · DOI: [10.3390/s22020660](https://doi.org/10.3390/s22020660)
-
----
-
 **tRNAGlyGCC-derived internal fragment (i-tRF-GlyGCC) in ovarian cancer treatment outcome and progression**  
 Panoutsopoulou K, Dreyer T, Dorn J, Obermayr E, Mahner S, Gorp TV, Braicu I, Zeillinger R, Magdolen V, **Avgeris M**, Scorilas A  
 **Cancers (Basel).** 2021;14(1):24.  
@@ -419,20 +412,6 @@ PubMed: [30795533](https://pubmed.ncbi.nlm.nih.gov/30795533/) · DOI: [10.3390/i
 Christodoulou MI, **Avgeris M**, Kokkinopoulou I, Maratou E, Mitrou P, Kontos CK, Pappas E, Boutati E, Scorilas A, Fragoulis EG  
 **Sci Rep.** 2019;9(1):1512.  
 PubMed: [30728419](https://pubmed.ncbi.nlm.nih.gov/30728419/) · DOI: [10.1038/s41598-018-37856-1](https://doi.org/10.1038/s41598-018-37856-1)
-
----
-
-**Where there is fire there is SMOKE: A scalable edge computing framework for early fire detection**  
-**Avgeris M**, Spatharakis D, Dechouniotis D, Kalatzis N, Roussaki I, Papavassiliou S  
-**Sensors (Basel).** 2019;19(3):639.  
-PubMed: [30717464](https://pubmed.ncbi.nlm.nih.gov/30717464/) · DOI: [10.3390/s19030639](https://doi.org/10.3390/s19030639)
-
----
-
-**Semantic interoperability for IoT platforms in support of decision making: An experiment on early wildfire detection**  
-Kalatzis N, Routis G, Marinellis Y, **Avgeris M**, Roussaki I, Papavassiliou S, Anagnostou M  
-**Sensors (Basel).** 2019;19(3):528.  
-PubMed: [30691223](https://pubmed.ncbi.nlm.nih.gov/30691223/) · DOI: [10.3390/s19030528](https://doi.org/10.3390/s19030528)
 
 ---
 
