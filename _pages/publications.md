@@ -359,6 +359,13 @@ PubMed: [32314378](https://pubmed.ncbi.nlm.nih.gov/32314378/) · DOI: [10.1111/e
 
 ---
 
+**Seafood mislabeling in Greek markets using DNA barcoding analyses**  
+Minoudi S, Karaiskou N, **Avgeris M**, Gkagkavouzis K, Tarantili P, Triantafyllidou D, Palilis L, Avramopoulou V, Tsikliras A, Barmperis K, Triantafyllidis A  
+**Food Control.** 2020;113:107213.  
+DOI: [10.1016/j.foodcont.2020.107213](https://doi.org/10.1016/j.foodcont.2020.107213)
+
+---
+
 **ΔNp63 transcript loss in bladder cancer constitutes an independent molecular predictor of TaT1 patients post-treatment relapse and progression**  
 Papadimitriou MA, **Avgeris M**, Levis PK, Tokas T, Stravodimos K, Scorilas A  
 **J Cancer Res Clin Oncol.** 2019;145(12):3075–3087.  
